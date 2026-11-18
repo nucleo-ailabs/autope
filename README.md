@@ -1,4 +1,4 @@
-# Arkhen
+# Autope
 
 **Automação do trabalho em agências de marketing, com agentes de IA e decisões rastreáveis.**
 
@@ -8,7 +8,7 @@ Proposta para o **Hack Brasil 2026** · **MVP em desenvolvimento**
 
 ## A proposta para o Hack Brasil
 
-O Arkhen propõe automatizar o fluxo de trabalho entre dados, análise, decisão e acompanhamento em agências de marketing brasileiras. O público inicial é o gestor de contas, que precisa coordenar a operação de vários clientes e manter visibilidade sobre o que exige atenção, quem decide e quem executa.
+O Autope propõe automatizar o fluxo de trabalho entre dados, análise, decisão e acompanhamento em agências de marketing brasileiras. O público inicial é o gestor de contas, que precisa coordenar a operação de vários clientes e manter visibilidade sobre o que exige atenção, quem decide e quem executa.
 
 O foco da proposta é a movimentação de informação e trabalho: integrar sistemas, organizar prioridades e encaminhar ações entre pessoas e agentes especializados. Esse recorte se relaciona à trilha **Logística & automação**, que contempla integrações entre sistemas e automação de fluxos de trabalho no [regulamento do Hack Brasil, item 5.2](https://hackbrasil.com/regulamento).
 
@@ -22,7 +22,7 @@ O problema central é a distância entre detectar uma situação e encaminhar um
 
 ## A solução
 
-O **Arkhen** é uma plataforma de colaboração entre pessoas e agentes de IA para a operação de agências de marketing. Sua proposta é conectar fontes de dados, análise de performance e gestão de tarefas em um mesmo fluxo de trabalho.
+O **Autope** é uma plataforma de colaboração entre pessoas e agentes de IA para a operação de agências de marketing. Sua proposta é conectar fontes de dados, análise de performance e gestão de tarefas em um mesmo fluxo de trabalho.
 
 O objetivo é reduzir a necessidade de transportar informações manualmente entre ferramentas e transformar cada achado relevante em um próximo passo claro, com contexto, responsável e critérios de aprovação.
 
@@ -30,7 +30,7 @@ O MVP tem foco inicial na operação de **mídia paga**. A conexão entre invest
 
 ## Conheça a Luna
 
-A **Luna** é a interface de inteligência do Arkhen. Por meio de uma conversa, o gestor pode consultar informações, explorar análises e acompanhar tarefas no contexto de cada cliente.
+A **Luna** é a interface de inteligência do Autope. Por meio de uma conversa, o gestor pode consultar informações, explorar análises e acompanhar tarefas no contexto de cada cliente.
 
 Na visão do produto, ela também coordena agentes especializados e interpreta os achados técnicos em linguagem de negócio. Uma variação no custo por lead, por exemplo, precisa vir acompanhada de contexto: qual campanha mudou, como isso afeta a captação e qual decisão merece atenção.
 
@@ -52,7 +52,7 @@ O gestor consulta a análise, toma a decisão que lhe cabe e acompanha o andamen
 
 ## Autonomia com governança
 
-O modelo de governança proposto para o Arkhen define quem pode autorizar cada ação, considerando fatores como impacto, reversibilidade e confiança da análise.
+O modelo de governança proposto para o Autope define quem pode autorizar cada ação, considerando fatores como impacto, reversibilidade e confiança da análise.
 
 | Nível | Quem autoriza | Papel no fluxo proposto |
 | --- | --- | --- |
